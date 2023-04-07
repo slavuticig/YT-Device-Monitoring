@@ -1,1 +1,2 @@
-print("pizda lui frida")
+print("pizda lui frida suka nahui")
+
